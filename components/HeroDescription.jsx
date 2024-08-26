@@ -49,7 +49,7 @@ const HeroDescription = () => {
           text="اتصال بنا"
         />
       </div>
-      <div className="flex gap-2">
+      <div className="flex gap-2 mt-10  justify-end">
         {SocialLinks.map((link) => (
           <SocialIcon key={link.id} link={link} />
         ))}

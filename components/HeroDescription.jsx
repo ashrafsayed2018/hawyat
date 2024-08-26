@@ -36,7 +36,7 @@ const HeroDescription = () => {
       <p className="font-bold">- نرحب بتواصلكم عبر الهاتف او الواتساب...</p>
       <p className="font-bold"> - نسعي لنيل ثقتكم</p>
       <p className="font-bold">- نقدم ما يتحتاجون اليه من خدمات ...</p>
-      <p className="font-bold">- للحجز والاستفسار /</p>
+      <p className="font-bold">- للحجز والاستفسار / {SiteInfo.mobile}</p>
       <div className="flex gap-2 items-center my-8">
         <Button
           style="btn bg-green-500 text-white hover:bg-green-600"

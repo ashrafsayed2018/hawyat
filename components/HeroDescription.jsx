@@ -54,7 +54,6 @@ const HeroDescription = () => {
           <SocialIcon key={link.id} link={link} />
         ))}
       </div>
-      <p className="mt-3 font-bold">توصيل ذبايح بالكويت</p>
     </div>
   )
 }

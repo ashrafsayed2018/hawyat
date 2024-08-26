@@ -8,7 +8,7 @@ const cairo = Cairo({
 })
 const AboutPage = () => {
   return (
-    <div className="w-full max-w-[72%] mx-auto py-20">
+    <div className="w-full max-w-[95%] mx-auto py-20">
       <h2 className={`${cairo.className} text-3xl font-bold mb-5 text-center`}>
         معلومات عنا
       </h2>

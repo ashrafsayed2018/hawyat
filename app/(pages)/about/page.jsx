@@ -42,8 +42,7 @@ const AboutPage = () => {
       <div className="flex flex-col md:flex-row items-center gap-6 mb-20 md:h-96 h-auto overflow-hidden rounded-xl">
         <div className="flex-1">
           <h3 className={`text-2xl font-bold mb-4 ${cairo.className}`}>
-            نحن صادقون مع أنفسنا ، ونلتزم دائمًا بتقديم أفضل ذبائح من اجود
-            المراعي .
+            نحن صادقون مع أنفسنا ، ونلتزم دائمًا بتقديم أفضل الخدمات
           </h3>
           <p className="text-lg my-8">
             حرصا على المصداقية نهتم بالتحسين الدائم المستمر والمحافظة على تميزنا

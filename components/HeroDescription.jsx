@@ -14,8 +14,10 @@ const HeroDescription = () => {
   return (
     <div className="absolute bottom-40 md:bottom-24 z-40 h-80 w-11/12 md:w-1/2 text-white right-4 md:right-52">
       <h1
-        className={`text-3xl md:text-4xl font-bold text-right mb-4 ${cairo.className}`}
+        className={`text-3xl md:text-4xl font-bold text-right mb-4 leading-loose ${cairo.className}`}
       >
+        <span className="text-gray-100 text-4xl">حاويات مدى التميز</span>
+        <br />
         متوفر حاويات انقاض
         <span className="text-red-600"> ومخلفات البناء في جميع انحاء جدة</span>
       </h1>

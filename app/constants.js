@@ -72,7 +72,7 @@ export const WorkImages = [
 export const Experiences = [
   {
     id: 1,
-    title: `خبرة 35عاما
+    title: `خبرة 10 سنوات
 `,
     description: `خبرة ودراية بمدى اهمية خدماتنا والتقدير لجودتنا`,
     icon: faUsersCog,

@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="relative">
         <div className="overlay absolute inset-0 " style={overlayStyle}></div>
         <Image
-          src="/work/006.jpeg"
+          src="/work/0006.jpg"
           alt="hero"
           width={1920}
           height={1080}

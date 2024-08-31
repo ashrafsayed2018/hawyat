@@ -9,7 +9,7 @@ const Spinner = () => {
       width="50"
       ariaLabel="color-ring-loading"
       wrapperStyle={{}}
-      wrapperClass="color-ring-wrapper"
+      wrapperclassName="color-ring-wrapper"
       colors={['#00ff00, #00ff00', '#00ff00, #00ff00', '#00ff00, #00ff00']}
     />
   )

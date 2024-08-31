@@ -87,8 +87,7 @@ export const Experiences = [
     id: 3,
     title: `عمل عالي الجودة
 `,
-    description: `نعتز بتقدم خدمات توصيل ذبائح بالكويت عالية الجودة
-`,
+    description: ` نعتز بتقديم الخدمات عالية الجودة وفي الوقت المحدد`,
     icon: faSuitcaseMedical,
   },
 ]

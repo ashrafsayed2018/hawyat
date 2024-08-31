@@ -19,7 +19,10 @@ const HeroDescription = () => {
         <span className="text-gray-100 text-4xl">حاويات مدى التميز</span>
         <br />
         متوفر حاويات انقاض
-        <span className="text-red-600"> ومخلفات البناء في جميع انحاء جدة</span>
+        <span className="text-red-600 text-xl">
+          {' '}
+          ومخلفات البناء في جميع انحاء جدة
+        </span>
       </h1>
       <p className="font-bold">بمقاس 20 و30 يارده</p>
       <p
@@ -37,7 +40,7 @@ const HeroDescription = () => {
       <p className="font-bold">- يوجد لدينا عقود حاويات</p>
       <p className="font-bold">- نرحب بتواصلكم عبر الهاتف او الواتساب...</p>
       <p className="font-bold"> - نسعي لنيل ثقتكم</p>
-      <p className="font-bold">- نقدم ما يتحتاجون اليه من خدمات ...</p>
+
       <p className="font-bold">- للحجز والاستفسار / {SiteInfo.mobile}</p>
       <div className="flex gap-2 items-center my-8">
         <Button

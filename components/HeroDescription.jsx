@@ -18,7 +18,7 @@ const HeroDescription = () => {
       >
         <span className="text-gray-100 text-4xl">حاويات مدى التميز</span>
         <br />
-        متوفر حاويات انقاض
+        <span className="text-gray-100 text-xl"> متوفر حاويات انقاض</span>
         <span className="text-red-600 text-xl">
           {' '}
           ومخلفات البناء في جميع انحاء جدة
